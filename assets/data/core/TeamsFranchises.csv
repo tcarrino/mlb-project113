@@ -1,121 +1,33 @@
-franchID,franchName,active,NAassoc
-ALT,Altoona Mountain City,N,
-ANA,Los Angeles Angels of Anaheim,Y,
-ARI,Arizona Diamondbacks,Y,
-ATH,Philadelphia Athletics,N,PNA
-ATL,Atlanta Braves,Y,BNA
-BAL,Baltimore Orioles,Y,
-BFB,Buffalo Bisons,N,
-BFL,Buffalo Bisons,N,
-BLC,Baltimore Canaries,NA,
-BLO,Baltimore Orioles,N,
-BLT,Baltimore Terrapins,N,
-BLU,Baltimore Monumentals,N,
-BNA,Boston Red Stockings,NA,ATL
-BOS,Boston Red Sox,Y,
-BRA,Brooklyn Atlantics,NA,
-BRD,Boston Reds,N,
-BRG,Brooklyn Gladiators,N,
-BRS,Boston Reds,N,
-BTT,Brooklyn Tip-Tops,N,
-BUF,Buffalo Bisons,N,
-BWW,Brooklyn Ward's Wonders,N,
-CBK,Columbus Buckeyes,N,
-CBL,Cleveland Blues,N,
-CEN,Philadelphia Centennials,NA,
-CFC,Cleveland Forest Citys,NA,
-CHC,Chicago Cubs,Y,CNA
-CHH,Chicago Whales,N,
-CHP,Chicago Pirates,N,
-CHW,Chicago White Sox,Y,
-CIN,Cincinnati Reds,Y,
-CKK,Cincinnati Kelly's Killers,N,
-CLE,Cleveland Indians,Y,
-CLI,Cleveland Infants,N,
-CLS,Columbus Solons,N,
-CLV,Cleveland Spiders,N,
-CNA,Chicago White Stockings,NA,CHC
-CNR,Cincinnati Reds,N,
-COL,Colorado Rockies,Y,
-COR,Cincinnati Outlaw Reds,N,
-CPI,Chicago/Pittsburgh (Union League),N,
-DET,Detroit Tigers,Y,
-DTN,Detroit Wolverines,N,
-ECK,Brooklyn Eckfords,NA,
-FLA,Florida Marlins,Y,
-HAR,Hartford Dark Blues,N,HNA
-HNA,Hartford Dark Blues,NA,HAR
-HOU,Houston Astros,Y,
-IBL,Indianapolis Blues,N,
-IHO,Indianapolis Hoosiers,N,
-IND,Indianapolis Hoosiers,N,
-KCC,Kansas City Cowboys,N,
-KCN,Kansas City Cowboys,N,
-KCP,Kansas City Packers,N,
-KCR,Kansas City Royals,Y,
-KCU,Kansas City Cowboys,N,
-KEK,Fort Wayne Kekiongas,NA,
-LAD,Los Angeles Dodgers,Y,
-LGR,Louisville Grays,N,
-LOU,Louisville Colonels,N,
-MAN,Middletown Mansfields,NA,
-MAR,Baltimore Marylands,NA,
-MIL,Milwaukee Brewers,Y,
-MIN,Minnesota Twins,Y,
-MLA,Milwaukee Brewers,N,
-MLG,Milwaukee Grays,N,
-MLU,Milwaukee Brewers,N,
-NAT,Washington Nationals,NA,
-NEW,Newark Pepper,N,
-NHV,New Haven Elm Citys,NA,
-NNA,New York Mutuals,NA,NYU
-NYI,New York Giants,N,
-NYM,New York Mets,Y,
-NYP,New York Metropolitans,N,
-NYU,New York Mutuals,N,NNA
-NYY,New York Yankees,Y,
-OAK,Oakland Athletics,Y,
-OLY,Washington Olympics,NA,
-PBB,Pittsburgh Burghers,N,
-PBS,Pittsburgh Rebels,N,
-PHA,Philadelphia Athletics,N,
-PHI,Philadelphia Phillies,Y,
-PHK,Philadelphia Keystones,N,
-PHQ,Philadelphia Athletics,N,
-PIT,Pittsburgh Pirates,Y,
-PNA,Philadelphia Athletics,NA,ATH
-PRO,Providence Grays,N,
-PWS,Philadelphia White Stockings,NA,
-RES,Elizabeth Resolutes,NA,
-RIC,Richmond Virginians,N,
-ROC,Rochester Broncos,N,
-ROK,Rockford Forest Citys,NA,
-SBS,St. Louis Brown Stockings,N,SNA
-SDP,San Diego Padres,Y,
-SEA,Seattle Mariners,Y,
-SFG,San Francisco Giants,Y,
-SLI,St. Louis Terriers,N,
-SLM,St. Louis Maroons,N,
-SLR,St. Louis Red Stockings,NA,
-SNA,St. Louis Brown Stockings,NA,SBS
-STL,St. Louis Cardinals,Y,
-STP,St. Paul Apostles,N,
-SYR,Syracuse Stars,N,
-SYS,Syracuse Stars,N,
-TBD,Tampa Bay Rays,Y,
-TEX,Texas Rangers,Y,
-TLM,Toledo Maumees,N,
-TOL,Toledo Blue Stockings,N,
-TOR,Toronto Blue Jays,Y,
-TRO,Troy Haymakers,NA,
-TRT,Troy Trojans,N,
-WAS,Washington Senators,N,
-WBL,Washington Blue Legs,NA,
-WES,Keokuk Westerns,NA,
-WIL,Wilmington Quicksteps,N,
-WNA,Washington Nationals,N,
-WNL,Washington Nationals,N,
-WNT,Washington Nationals,NA,
-WOR,Worcester Ruby Legs,N,
-WSN,Washington Nationals,Y,
-WST,Washington Statesmen,N,
+City,League,State,Team Name,Latitude (generated),Longitude (generated)
+Anaheim,AL,CA,Los Angeles Angels of Anaheim,33.8348,-117.9117
+Arlington,AL,TX,Texas Rangers,32.7356,-97.1071
+Atlanta,NL,GA,Atlanta Braves,33.7491,-84.3902
+Baltimore,AL,MD,Baltimore Orioles,39.2909,-76.6108
+Boston,AL,MA,Boston Red Sox,42.3605,-71.0596
+Chicago,NL,IL,Chicago Cubs,41.8756,-87.6244
+Chicago,AL,IL,Chicago White Sox,41.8756,-87.6244
+Cincinnati,NL,OH,Cincinnati Reds,39.1015,-84.5125
+Cleveland,AL,OH,Cleveland Indians,41.5052,-81.6934
+Denver,NL,CO,Colorado Rockies,39.7348,-104.9653
+Detroit,AL,MI,Detroit Tigers,42.3487,-83.0567
+Houston,NL,TX,Houston Astros,29.7589,-95.3677
+Houston,AL,TX,Houston Astros,29.7589,-95.3677
+Kansas City,AL,MO,Kansas City Royals,39.0845,-94.563
+Los Angeles,NL,CA,Los Angeles Dodgers,34.0544,-118.2439
+Miami,NL,FL,Florida Marlins,25.7743,-80.1937
+Milwaukee,NL,WI,Milwaukee Brewers,43.0115,-87.9735
+Milwaukee,AL,WI,Milwaukee Brewers,43.0115,-87.9735
+Minneapolis,AL,MN,Minnesota Twins,44.9773,-93.2655
+New York City,NL,NY,New York Mets,40.7648,-73.9808
+New York City,AL,NY,New York Yankees,40.7648,-73.9808
+Oakland,AL,CA,Oakland Athletics,37.8045,-122.2714
+Olcott,AL,NY,Toronto Blue Jays,43.3378,-78.7148
+Philadelphia,NL,PA,Philadelphia Phillies,40.0115,-75.1327
+Phoenix,NL,AZ,Arizona Diamondbacks,33.4486,-112.0773
+Pittsburgh,NL,PA,Pittsburgh Pirates,40.4417,-79.9901
+San Diego,NL,CA,San Diego Padres,32.7174,-117.1628
+San Francisco,NL,CA,San Francisco Giants,37.7648,-122.463
+Seattle,AL,WA,Seattle Mariners,47.6038,-122.3301
+St. Louis,NL,MO,St. Louis Cardinals,38.63,-90.19
+Tampa,AL,FL,Tampa Bay Rays,27.9478,-82.4584
+Washington,NL,DC,Washington Nationals,38.895,-77.0366
