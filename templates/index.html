@@ -63,25 +63,25 @@
 <body onload="initViz();">
     <div class="jumbotron text-center">
         <h1>MLB Statistics</h1>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" alt="MLB logo">   
+        <img width="1100" height="600" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" alt="MLB logo">   
     </div>
 
     <center>
         <div data-aos="zoom-in"
             data-aos-delay="350"
             data-aos-duration="750">
-            <div id="vizContainerMap" style="width:800px; height:700px;"></div>
+            <div id="vizContainerMap" style="width:device-width; height:700px;"></div>
         </div>
         <br>
         <br>
         <br>
-        <div data-aos="slide-up"
+        <div data-aos="fade-down-left"
             data-aos-delay="100"
             data-aos-duration="1000">
             <h2>Team Statistics and Wins by Year</h2>
             Choose a team and then one or more stat(s) to compare to team wins on a year by year basis. For best results, choose a statistic that is not <em>"per game"</em>.
             <br>
-            <div id="vizContainerYear" style="width:800px; height:700px;"></div>
+            <div id="vizContainerYear" style="width:device-width; height:650px;"></div>
         </div>
         <br>
         <br>
@@ -91,7 +91,7 @@
             data-aos-duration="1000">
             <h2>Team Statistics Per Season</h2>
             Choose one or more <em>"per game"</em> stat(s) to compare to each team's average number of wins per season.
-            <div id="vizContainerTeam" style="width:800px; height:700px;"></div>
+            <div id="vizContainerTeam" style="width:device-width; height:650px;"></div>
         </div>
     </center>
 
